@@ -19,6 +19,6 @@
     "nodemon": "^1.18.10"
   },
   "dependencies": {
-    "mongoose": "^5.6.12"
+    "mongoose": "^5.7.5"
   }
 }
